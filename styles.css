@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+div {
+    color: white;
+    max-width: 50em;
+    background-color: #cab035;
+    border: 2px solid #5a68a5;
+    margin: 1em auto;
+    padding: 1em;
+    text-align: center;
+    width:40em;
+    height:13em;
+    margin-left: auto;
+    margin-right: auto;
+}
